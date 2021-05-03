@@ -3,7 +3,7 @@ Interested to dive a little deeper into mobile development especially the Androi
 
 ## The course details
 - every working day from 11.40am till 12.00pm
-- 10-15minutes of coding & 5minutes for Q&A
+- 10-15minutes of coding and 0-5minutes for Q&A
 
 ## The topics/themes that are covered:
 The aim is to have one major theme per week.
