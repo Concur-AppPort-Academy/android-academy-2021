@@ -18,7 +18,7 @@ The aim is to have one major theme per week.
 - Storing data locally 
 - Working with images
 - Deploy app to Google Play
-- The theme/topic chosen by students
+- The theme/topic chosen by students (e.g. usage of ML in the mobile app)
 
 ## Slack channel:
 In case of any questions or suggestions please reach out to us via our [slack channel](appport-academy.slack.com)
