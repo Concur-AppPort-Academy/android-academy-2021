@@ -1,7 +1,11 @@
 # AppPort Android Academy  
 Interested to dive a little deeper into mobile development especially the Android World? Join us for the AppPort Android Academy, 12 weeks of classes. The class runs every working day from 11.40am till 12.00pm for 12 weeks. 
 
-## The Course structure:
+## The course details
+- every working day from 11.40am till 12.00pm
+- 10-15minutes of coding & 5minutes for Q&A
+
+## The topics/themes that are covered:
 The aim is to have one major theme per week.
 - Intro into Android development 
 - Kotlin introduction
